@@ -1,7 +1,9 @@
-# Talkiepedia.org * ein Stück Demokratie : freie Diskussionsboards unter allen Webseiten/Presse-Artikeln  * Add-On / Browser-Extension    *  
+# Talkiepedia.org * ein Stück Demokratie 
 
-Talkiepedia ist the idea of a universal comment system for the Web. Stefan Brück 
-
+Talkiepedia bietet freie Diskussionsboards unter allen Webseiten/Presse-Artikeln im Netz als Browser-Extension / Add-On. 
+ 
+Quote: Stefan Brück:
+Talkiepedia ist the idea of a universal comment system for the Web.  
 
 Quote: Sascha Lobo:
  Akt der „Digitalen Herzensbildung“, die einen zivilisierten Verhaltenskodex für sich annimmt und selbstständig durchsetzt. Solange werden abschätzige Kommentare der Preis sein für eine lebendige und vielfältige Debatte.   
