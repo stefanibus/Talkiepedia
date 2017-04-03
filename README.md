@@ -1,4 +1,4 @@
-# Talkiepedia.org * when it comes to discussionboards the price of 'moderate freedom' is 'free moderation'. * Ein neues Stück Demokratie  
+# Talkiepedia.org * when it comes to discussionboards the price of 'moderate freedom' is 'free moderation'   
 
 Talkiepedia bietet freie Diskussionsboards unter allen Webseiten/Presse-Artikeln im Netz als Browser-Extension / Add-On. 
  
