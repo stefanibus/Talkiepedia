@@ -30,8 +30,8 @@ Ziele:
 6.:  Alle Webseitenbetreiber erhalten Hinweise über die Kommentare welche mithilfe von Talkiepedia unter Ihren Webseiten verfasst werden und können von einem gesonderten Vetorecht Gebrauch machen. 
 
 
-Quote Tagesspiegel: Sascha Lobo: 
-Was Nutzern stärker vermittelt werden muss, ist, dass auch die digitale Welt den Leitspruch hat: Verhalten, das im realen Leben nicht akzeptabel ist, soll es auch im Netz nicht sein. Die Diskussionskultur im Internet braucht noch den Akt der „Digitalen Herzensbildung“, die einen zivilisierten Verhaltenskodex für sich annimmt und selbstständig! durchsetzt. Solange werden abschätzige Kommentare der Preis sein für jede lebendige und vielfältige Debatte.
+Quote Sascha Lobo im Tagesspiegel 14.09.2013:  
+Was Nutzern stärker vermittelt werden muss, ist, dass auch die digitale Welt den folgenden moralischen Leitspruch hat: Verhalten, das im realen Leben nicht akzeptabel ist, soll es auch im Netz nicht sein. Die Diskussionskultur im Internet braucht aber noch den Akt der „Digitalen Herzensbildung“, die einen zivilisierten Verhaltenskodex für sich annimmt und selbstständig(!) durchsetzt. Solange werden abschätzige Kommentare der Preis sein für jede lebendige und vielfältige Debatte.
 
 
 
