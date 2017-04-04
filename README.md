@@ -1,7 +1,6 @@
 # Talkiepedia.org 
 
-Talkiepedia bietet freie Diskussionsboards unter allen Webseiten/Presse-Artikeln im Netz als Browser-Extension / Add-On. 
-
+Talkiepedia bietet freie Diskussionsboards unter allen Webseiten/Presse-Artikeln im Netz als Browser-Extension.
 
 Alle bisherigen Versuche es privaten Usern zu ermöglichen unter Pseudonym im Netz zu diskutieren haben Ihre hohe Qualität des Diskussionsboards nur gewährleisten können, indem sie eine enge Anbindung an einen einzelnen Moderator etabliert haben. Dieser Moderator nahm über alle eingereichten Kommentare hinweg Qualitätskontrollen vor. Er sonderte die unqualifizierten Kommentare aus, er steckte so zu sagen die schlechten ins Kröpfchen und die guten ins Töpfchen. 
 
