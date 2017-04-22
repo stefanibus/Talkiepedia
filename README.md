@@ -1,4 +1,4 @@
-# Mit Talkiepedia entsteht eine neue Diskussionskultur im Netz. An allen Orten, mit neuen Mustern. Wir beginnen als Add-On für den Desktop-Browser.
+# Mit Talkiepedia.org entsteht eine neue Diskussionskultur im Netz. An allen Orten, mit neuen Mustern. Wir beginnen als Add-On für den Desktop-Browser.
 
 - Talkiepedia.org ist ein Diskussions-Tool welches unter allen Webseiten im Netz als Browser-Add-On eingeblendet wird. 
 - Diskussionen werden in Anonymität geführt, das erlaubt freiere Diskussionen.
