@@ -10,7 +10,7 @@
 - Es entsteht ein selbstlernendes System in dem gute Qualität verpflichtet. Jeder wird selber Feedback geben und erhält Feedback.
 
 
-# Viele User nehmen an kontroversen Diskussionen auf Facebook und anderen sozialen Netzwerke nicht teil. Talkiepedia bietet die Möglichkeit der anonymen, und damit freien Meinungsäußerung. 
+ Viele User nehmen an kontroversen Diskussionen auf Facebook und anderen sozialen Netzwerke nicht teil. Talkiepedia bietet die Möglichkeit der anonymen, und damit freien Meinungsäußerung. 
 # Talkiepedia blendet ein Diskussionsforum am unteren Ende jeder Webseite ein, da wo Ihr surft, könnt Ihr frei diskutieren.   
 # Aber Ihr müsst Euren Teil zur Qualität der Diskussionskultur beitragen: Wer einen Kommentar einreicht, der ist verpflichtet drei Kommentare anderer User zu kontrollieren bzw. moderieren.
 # Jeder Moderator trägt eine Mitverantwortung für die Qualität der Diskussionen auf der Talkiepedia-Plattform
