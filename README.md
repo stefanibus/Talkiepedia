@@ -2,25 +2,35 @@
 
 - Talkiepedia.org ist ein Diskussions-Tool welches unter allen Webseiten im Netz als Browser-Add-On eingeblendet wird. 
 - Diskussionen werden in Anonymität geführt, das erlaubt freiere Diskussionen.
-- Der Preis dieser Freiheit ist die Verpflichtung zur Moderation von drei zufällig ausgewählten Kommentaren anderer User.  
+- Der Preis dieser Freiheit ist die Verpflichtung zur Moderation: Für jeden Kommentar müssen im Gegenzug drei zufällig ausgewählte Kommentare von anderen Usern kontrolliert werden.  
 - Willkommen bei vielen neuen und anonymen, und zugleich selbstmoderierten Diskussionen, unter allen Webseiten im Netz.   
 - Anonyme User: können an Gruppendiskussionen teilnehmen und müssen Bewertungen vornehmen  
-- Pseudonyme User: haben sich einen Account angelegt (Kunstname & Passwort) 
-- Pseudonyme User: können zusätzlich "One-to-One" Einzelgespräche führen und erhalten Feedback zu Ihren Kommentaren 
-- Es entsteht ein selbstlernendes System in dem gute Qualität verpflichtet. Jeder wird selber Feedback geben und erhält Feedback.
+- Pseudonyme User: legen sich einen Account an (Kunstname & Passwort) 
+- Pseudonyme User: können "One-to-One" Einzelgespräche führen und erhalten zusätzliche Notizen über Feedback zu Ihren Kommentaren und zu Ihren Moderations-Dienstleistungen 
+- Es entsteht ein selbstlernendes System in dem gute Qualität verpflichtet. Jeder User weiss er wird Feedback erhalten und er wird selber Feedback geben.
 
 
  Viele User nehmen an kontroversen Diskussionen auf Facebook und anderen sozialen Netzwerke nicht teil. Talkiepedia bietet die Möglichkeit der anonymen, und damit freien Meinungsäußerung. 
-# Talkiepedia blendet ein Diskussionsforum am unteren Ende jeder Webseite ein, da wo Ihr surft, könnt Ihr frei diskutieren.   
-# Aber Ihr müsst Euren Teil zur Qualität der Diskussionskultur beitragen: Wer einen Kommentar einreicht, der ist verpflichtet drei Kommentare anderer User zu kontrollieren bzw. moderieren.
-# Jeder Moderator trägt eine Mitverantwortung für die Qualität der Diskussionen auf der Talkiepedia-Plattform
-# Ihr werdet drei zufällig ausgewählte Kommentare präsentiert bekommen und jeweils vier Fragen zu diesen Kommentaren beantworten 
-# Kein Kommentar geht auf Talkiepedia Online bevor er nicht drei erfolgreiche Kontrollen durchlaufen hat (Inhalt der vier Fragen siehe unten) 
-# User können sich zusätzlich ein Pseudonym einrichten, darüber werde Diskussionen über die anonymen Kommentare möglich:
-# - Ihr erhaltet und gebt Feedback darüber weshalb ein Kommentar zur Veröffentlichung abgelehnt wurde
-# - Ihr nehmt selber Kontakt auf mit dem Moderator Eures Kommentars 
-# Talkiepedia ermöglicht Analysen zur Menge und zur Verteilung von Diskussionen im Netz 
-# Talkiepedia ermöglicht Analyse der Meinungsbilder unter einzelnen Artikeln und über die Gesamtheit
+
+
+Talkiepedia blendet ein Diskussionsforum am unteren Ende jeder Webseite ein, da wo Ihr surft, könnt Ihr frei diskutieren.   
+
+Aber Ihr müsst Euren Teil zur Qualität der Diskussionskultur beitragen: Wer einen Kommentar einreicht, der ist verpflichtet drei Kommentare anderer User zu kontrollieren bzw. moderieren.
+
+Jeder Moderator trägt eine Mitverantwortung für die Qualität der Diskussionen auf der Talkiepedia-Plattform
+
+Ihr werdet drei zufällig ausgewählte Kommentare präsentiert bekommen und jeweils vier Fragen zu diesen Kommentaren beantworten 
+
+Kein Kommentar geht auf Talkiepedia Online bevor er nicht drei erfolgreiche Kontrollen durchlaufen hat (Inhalt der vier Fragen siehe unten) 
+
+User können sich zusätzlich ein Pseudonym einrichten, darüber werde Diskussionen über die anonymen Kommentare möglich:
+ - Ihr erhaltet und gebt Feedback darüber weshalb ein Kommentar zur Veröffentlichung abgelehnt wurde
+ - Ihr nehmt selber Kontakt auf mit dem Moderator Eures Kommentars 
+
+
+Talkiepedia ermöglicht Analysen zur Menge und zur Verteilung von Diskussionen im Netz 
+
+Talkiepedia ermöglicht Analyse der Meinungsbilder unter einzelnen Artikeln und über die Gesamtheit
  
 
 Ihr werdet über eine Browser-Extension anonyme Diskussionsboards unter allen Presse-Artikeln im Netz sehen.
