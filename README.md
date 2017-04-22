@@ -1,4 +1,4 @@
-# Mit Talkiepedia entsteht eine neue Diskussionskultur im Netz. An allen Orten, mit neuen Mustern. Wir beginnen als Add-On, aber wir wollen einen eigenen Browser.
+# Mit Talkiepedia entsteht eine neue Diskussionskultur im Netz. An allen Orten, mit neuen Mustern. Wir beginnen als Add-On für den Desktop-Browser.
 
 - Talkiepedia.org ist ein Diskussions-Tool welches unter allen Webseiten im Netz als Browser-Add-On eingeblendet wird. 
 - Diskussionen werden in Anonymität geführt, das erlaubt freiere Diskussionen.
@@ -33,7 +33,7 @@ Talkiepedia ist Open Source und ermöglicht und veröffentlicht Analysen zur Men
 Talkiepedia ermöglicht eine Analyse der Meinungsbilder unter einzelnen Artikeln und auch über die Gesamtheit(en)
  
 
- Ihr werdet über das Talkiepedia-Browser-Extension anonyme Diskussionsboards unter allen Presse-Artikeln im Netz sehen. Zuerst als Browser-AddOn, später als eigener Browser im Kosortium mit Tor und AdBlocker).
+ Ihr werdet über die Talkiepedia-Browser-Extension anonyme Diskussionsboards unter allen Presse-Artikeln im Netz sehen. Zuerst als Browser-AddOn, später als eigener Browser im Konsortium mit Tor und AdBlocker.
 
 Alle bisherigen Versuche es privaten Usern zu ermöglichen unter Pseudonym im Netz zu diskutieren haben Ihre hohe Qualität des Diskussionsboards nur gewährleisten können, indem sie eine enge Anbindung an einen einzelnen Moderator etabliert haben. Dieser Moderator nahm über alle eingereichten Kommentare hinweg Qualitätskontrollen vor. Er sonderte die unqualifizierten Kommentare aus, er steckte so zu sagen die schlechten ins Kröpfchen und die guten ins Töpfchen. 
 
