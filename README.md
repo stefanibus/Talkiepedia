@@ -1,1 +1,1 @@
-Talkiepedia.org enables a new culture of discussion on the Web.  
+Talkiepedia.org enables a new culture of discussion on the Web. Talkiepedia.org enables a new culture of discussion on the Web. Talkiepedia will enable you to chat below almost all webpages on the net. Your freedom to chat anonymously will come at the price of you moderating other peoples comments! Yes. You will be asked to moderate other peoples comments. Anonymously. Talkiepedia is about feelings, not just facts. Dont just chat, Do something. Get involved.
